@@ -1,3 +1,26 @@
+## turtlebot3_msgs (melodic) - 1.0.0-0
+
+The packages in the `turtlebot3_msgs` repository were released into the `melodic` distro by running `/usr/bin/bloom-release turtlebot3_msgs -t melodic -r melodic --edit` on `Fri, 20 Jul 2018 06:13:38 -0000`
+
+The `turtlebot3_msgs` package was released.
+
+Version of package(s) in repository `turtlebot3_msgs`:
+
+- upstream repository: https://github.com/ROBOTIS-GIT/turtlebot3_msgs.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `1.0.0-0`
+
+Versions of tools used:
+
+- bloom version: `0.6.4`
+- catkin_pkg version: `0.4.3`
+- rosdep version: `0.12.2`
+- rosdistro version: `0.6.8`
+- vcstools version: `0.1.40`
+
+
 ## turtlebot3_msgs (kinetic) - 1.0.0-0
 
 The packages in the `turtlebot3_msgs` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release turtlebot3_msgs -t kinetic -r kinetic --edit` on `Tue, 29 May 2018 13:46:58 -0000`
