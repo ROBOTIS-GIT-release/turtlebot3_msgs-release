@@ -1,0 +1,12 @@
+Source: ros-noetic-turtlebot3-msgs
+Section: misc
+Priority: optional
+Maintainer: Will Son <willson@robotis.com>
+Build-Depends: debhelper (>= 9.0.0), ros-noetic-catkin, ros-noetic-message-generation, ros-noetic-std-msgs
+Homepage: http://wiki.ros.org/turtlebot3_msgs
+Standards-Version: 3.9.2
+
+Package: ros-noetic-turtlebot3-msgs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-noetic-message-runtime, ros-noetic-std-msgs
+Description: Message and service types: custom messages and services for TurtleBot3 packages
